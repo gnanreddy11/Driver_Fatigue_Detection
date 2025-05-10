@@ -99,7 +99,7 @@ Driver_Fatigue_Detection/
 
 | Real-Time UI | Feature Importance |
 |--------------|--------------------|
-| ![UI](media/fatigue_ui_real_time.png) | ![Importance](media/feature_importance_fatigue.png) |
+| ![UI](Driver_Fatigue_Detection/Media/fatigue_ui_real_time.png) | ![Importance](media/feature_importance_fatigue.png) |
 
 ---
 
