@@ -118,9 +118,9 @@ Driver_Fatigue_Detection/
 
 ## 📘 Reports
 
-- [Final Report (PDF)](reports/Final_Report.pdf)
-- [Project Presentation (PDF)](reports/Project_Presentation.pdf)
-- [Original Research Paper](reports/Reference_Paper.pdf)
+- [Final Report (PDF)](Reports/Final_Report.pdf)
+- [Project Presentation (PDF)](Reports/Project_Presentation.pdf)
+- [Original Research Paper](Reports/Reference_Paper.pdf)
 
 ---
 
