@@ -118,8 +118,8 @@ Driver_Fatigue_Detection/
 
 ## 📘 Reports
 
-- [Final Report (PDF)](Reports/Final_Report.pdf)
-- [Project Presentation (PDF)](Reports/Project_Presentation.pdf)
+- [Final Report (PDF)](Reports/Final_Report_BTech.pdf)
+- [Project Presentation (PDF)](Reports/Semester_Project_Final_Presentation.pdf)
 - [Original Research Paper](Reports/Reference_Paper.pdf)
 
 ---
